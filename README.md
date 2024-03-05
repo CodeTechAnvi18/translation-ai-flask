@@ -15,9 +15,9 @@ Azure AI Service <br>
 1. Azure AI Translator Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">In today's increasingly interconnected world, seamless communication across linguistic barriers is paramount. The challenge is to provide a user-friendly platform facilitating effortless content translation while maintaining a log of user interactions. The goal is to develop an efficient, scalable solution addressing language translation needs and enhancing user experience by integrating recent search data.</p>
 <h2>Project Description</h2>
-<p align="justify">The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
+<p align="justify">The "Multilingual Content Hub - LinguaLoom" is a web application aimed at streamlining language translation tasks and preserving user interaction history. Users can input text, and the system harnesses Azure AI Translator service to deliver precise and contextually fitting translations. Additionally, the application includes a feature displaying recent searches, enabling users to easily revisit and reuse past translations.</p><br>
 <b>Key Features :</b>
 <ul>
     <li>Seamless Language Translation</li>
