@@ -36,12 +36,12 @@ Furthermore, the implementation of monitoring and analytical mechanisms, includi
 <h2>Azure AI Service</h2>
 <b>Azure AI Translator Service :</b><br><br><p align="justify">At the heart of translation functionality lies the Azure AI Translator service. This service employs sophisticated natural language processing algorithms to deliver precise and contextually fitting translations across a diverse array of languages.</p>
 <h2>Other Azure Technologies / Services</h2>
-<p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
+<p align="justify">The Multilingual Content Hub, Azure Monitor and Azure Application Insights synergistically collaborate, diligently overseeing application health and user experiences.</p>
 
-<b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Monitors vital overall performance indicators, ensuring the application runs seamlessly.<br>
-<b>Proactive Alerts :</b> Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.</p>
+<b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Tracks essential performance metrics to ensure the seamless operation of the application.<br>
+<b>Proactive Alerts :</b> Issues immediate alerts upon deviations from predefined performance thresholds, enabling swift responses to potential disruptions.</p>
 <b>Azure Application Insights :</b><p align="justify">
-<b>User Interaction Insights :</b> Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.<br>
+<b>User Interaction Insights :</b> Examines user interactions, furnishing detailed insights on usage patterns and feature adoption.<br>
 <b>Diagnostics Precision :</b> Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
 
 <h2>Screenshots</h2>
