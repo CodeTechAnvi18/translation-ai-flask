@@ -1,10 +1,10 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service.</b></a>
+<h2>Project Title:</h2><b><a href="https://linguasync0000.azurewebsites.net/">Multilingual Content Exchange - LinguaLoom Translation Web Platform with Azure AI Translation Service.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https://linguasync0000.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
+<b>Github Repository URL :</b> https://github.com/CodeTechAnvi18/translation-ai-flask.git <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
 <h3>
