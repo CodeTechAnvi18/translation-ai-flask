@@ -20,14 +20,15 @@ Azure AI Service <br>
 <p align="justify">The "Multilingual Content Hub - LinguaLoom" is a web application aimed at streamlining language translation tasks and preserving user interaction history. Users can input text, and the system harnesses Azure AI Translator service to deliver precise and contextually fitting translations. Additionally, the application includes a feature displaying recent searches, enabling users to easily revisit and reuse past translations.</p><br>
 <b>Key Features :</b>
 <ul>
-    <li>Seamless Language Translation</li>
-    <li>User-Friendly Interface</li>
-    <li>History Tracking and Recent Searches</li>
-    <li>Azure App Service Hosting</li>
-    <li>Azure SQL Database for Efficient Data Management</li>
+    <li>Effortless Multilingual Communication</li>
+    <li>User-Friendly Interface for Enhanced Accessibility</li>
+    <li>Comprehensive Interaction Logging and Search History</li>
+    <li>Reliable Hosting on Azure App Service</li>
+    <li>Streamlined Data Management with Azure SQL Database</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
+<p align="justify">The Multilingual Content Hub serves as a cornerstone for future development endeavors, extending its capabilities beyond its current scope. Opportunities for integration with supplementary Azure services, such as Azure Storage for managing multimedia assets and Azure Key Vault for heightened security measures, remain open for exploration.
+Furthermore, the implementation of monitoring and analytical mechanisms, including Azure Monitor and Azure Application Insights, lays the groundwork for ongoing refinement and optimization, ensuring sustained progress and adaptability.</p>
 <h2>Core Azure Services</h2>
 <b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
 
