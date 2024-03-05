@@ -63,8 +63,8 @@ Furthermore, the implementation of monitoring and analytical mechanisms, includi
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
+The Multilingual Content Hub revolutionizes language connectivity by seamlessly integrating cutting-edge technology and linguistic expertise. Empowered by Azure's resilient infrastructure, this initiative not only effectively tackles language barriers but also envisions a future where communication transcends geographical boundaries.</p>
 <p align="justify">
-<b>As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
+<b>In conclusion, the Multilingual Content Hub transcends its mere status as an application; it embodies an ongoing exploration of limitless communication possibilities. In an era characterized by global interconnectedness, this project signifies a monumental leap towards a more accessible and interconnected world.</b>
 </p> <br>
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
+</h2><b><a href="https://linguasync0000.azurewebsites.net/">Multilingual Content Exchange - LinguaLoom Translation Web Platform with Azure AI Translation Service.</b></a>
