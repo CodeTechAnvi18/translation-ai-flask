@@ -30,11 +30,11 @@ Azure AI Service <br>
 <p align="justify">The Multilingual Content Hub serves as a cornerstone for future development endeavors, extending its capabilities beyond its current scope. Opportunities for integration with supplementary Azure services, such as Azure Storage for managing multimedia assets and Azure Key Vault for heightened security measures, remain open for exploration.
 Furthermore, the implementation of monitoring and analytical mechanisms, including Azure Monitor and Azure Application Insights, lays the groundwork for ongoing refinement and optimization, ensuring sustained progress and adaptability.</p>
 <h2>Core Azure Services</h2>
-<b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
+<b>Azure App Service :</b><br><p align="justify"><br>The project relies on Azure App Service for web application hosting, ensuring scalability, dependability, and simplified deployment. This service facilitates smooth integration with other Azure components while providing a secure operational environment.</p>
 
-<b>Azure MySQL Dtatabase :</b><br><p align="justify">To store and manage recent search history, the project employs Azure SQL Database. This relational database service ensures data consistency, integrity, and enables efficient querying, making it ideal for tracking and displaying user interactions.</p>
+<b>Azure MySQL Dtatabase :</b><br><p align="justify">For managing recent search history, the project utilizes Azure SQL Database. This relational database service guarantees data coherence, integrity, and facilitates efficient data retrieval, making it well-suited for tracking and presenting user interactions.</p>
 <h2>Azure AI Service</h2>
-<b>Azure AI Translator Service :</b><br><br><p align="justify">The core of the translation functionality is powered by Azure AI Translator service. This service employs advanced natural language processing algorithms to provide accurate and contextually relevant translations across a wide array of languages.</p>
+<b>Azure AI Translator Service :</b><br><br><p align="justify">At the heart of translation functionality lies the Azure AI Translator service. This service employs sophisticated natural language processing algorithms to deliver precise and contextually fitting translations across a diverse array of languages.</p>
 <h2>Other Azure Technologies / Services</h2>
 <p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
 
